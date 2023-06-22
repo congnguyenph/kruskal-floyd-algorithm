@@ -1,0 +1,38 @@
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.exe
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.deps.json
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.runtimeconfig.json
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.runtimeconfig.dev.json
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.dll
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\ref\Doancuoiki.dll
+C:\do_an\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.pdb
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.AssemblyReference.cache
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.Form1.resources
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.GenerateResource.cache
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.AssemblyInfoInputs.cache
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.AssemblyInfo.cs
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.CoreCompileInputs.cache
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.dll
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\ref\Doancuoiki.dll
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.pdb
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.genruntimeconfig.cache
+C:\do_an\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.Properties.Resources.resources
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.exe
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.deps.json
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.runtimeconfig.json
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.dll
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\ref\Doancuoiki.dll
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\bin\Debug\net5.0-windows\Doancuoiki.pdb
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.Form1.resources
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.Properties.Resources.resources
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.AssemblyInfo.cs
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.dll
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\ref\Doancuoiki.dll
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.pdb
+C:\Users\Admin\Desktop\bai tap\lí  thuyết đồ thị và ứng dụng\Doancuoiki\Doancuoiki\obj\Debug\net5.0-windows\Doancuoiki.genruntimeconfig.cache
